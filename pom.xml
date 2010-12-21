@@ -54,6 +54,14 @@
 
   <developers>
     <developer>
+      <name>Adam 'Atomic' Saltsman</name>
+      <organization>flixel.org</organization>
+      <organizationUrl>http://www.flixel.org</organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+    <developer>
       <name>Frank Wienberg</name>
       <organization>Jangaroo</organization>
       <organizationUrl>http://www.jangaroo.net</organizationUrl>
